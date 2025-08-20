@@ -5,7 +5,7 @@ Under this repository, I store assets (diagrams, infographics, etc.) that comple
 
 * Post: [OTF: What It Is and Where It Fits](https://celiamuriel.com/otf-what-it-is-and-where-it-fits/)
   * Asset: [Foundational Components for an Analytical System Based on Files](https://github.com/CeliaMuriel/OTF/blob/main/Foundational%20Components%20for%20an%20Analytical%20System%20Based%20on%20Files.jpg)
-* Post: A Little Introduction to Apache Iceberg
+* Post: [A Little Introduction to Apache Iceberg](https://celiamuriel.com/a-little-introduction-to-apache-iceberg/)
   * Asset: [Apache Iceberg Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Architecture.jpg)
   * Asset: [Apache Iceberg Read Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Read%20Process.jpg)
   * Asset: [Apache Iceberg Write Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Write%20Process.jpg)
