@@ -4,5 +4,5 @@ Open Table Format (OTF) is a file format for storing tabular data that is easily
 Under this repository, I store assets (diagrams, infographics, etc.) that complement the posts I published about [OTF](https://celiamuriel.com/category/otf/) in [my blog](https://celiamuriel.com/).
 
 * Post: [OTF: What It Is and Where It Fits](https://celiamuriel.com/otf-what-it-is-and-where-it-fits/)
-  _ Asset: [Foundational Components for an Analytical System Based on Files](https://github.com/CeliaMuriel/OTF/blob/main/Foundational%20Components%20for%20an%20Analytical%20System%20Based%20on%20Files.jpg)
+  * Asset: [Foundational Components for an Analytical System Based on Files](https://github.com/CeliaMuriel/OTF/blob/main/Foundational%20Components%20for%20an%20Analytical%20System%20Based%20on%20Files.jpg)
 * Post:
