@@ -6,9 +6,9 @@ Under this repository, I store assets (diagrams, infographics, etc.) that comple
 * Post: [OTF: What It Is and Where It Fits](https://celiamuriel.com/otf-what-it-is-and-where-it-fits/)
   * Asset: [Foundational Components for an Analytical System Based on Files](https://github.com/CeliaMuriel/OTF/blob/main/Foundational%20Components%20for%20an%20Analytical%20System%20Based%20on%20Files.jpg)
 * Post: A Little Introduction to Apache Iceberg
-  * [Apache Iceberg Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Architecture.jpg)
-  * [Apache Iceberg Read Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Read%20Process.jpg)
-  * [Apache Iceberg Write Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Write%20Process.jpg)
+  * Asset: [Apache Iceberg Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Architecture.jpg)
+  * Asset: [Apache Iceberg Read Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Read%20Process.jpg)
+  * Asset: [Apache Iceberg Write Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Write%20Process.jpg)
 ## References
 * Apache Iceberg. (n.d.). _Apache Iceberg online documentation on the Apache Iceberg official website_. Accessed in August 2025. https://iceberg.apache.org/docs/nightly/
 * Shiran, T., Hughes, J. and Merced, A. (2024). _Apache Iceberg: The Definitive Guide. Data Lakehouse Functionality, Performance, and Scalability on the Data Lake_. O’Reilly Media, Inc.
