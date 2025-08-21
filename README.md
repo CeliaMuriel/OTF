@@ -9,7 +9,7 @@ Under this repository, I store assets (diagrams, infographics, etc.) that comple
   * Asset: [Apache Iceberg Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Architecture.jpg)
   * Asset: [Apache Iceberg Read Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Read%20Process.jpg)
   * Asset: [Apache Iceberg Write Process](https://github.com/CeliaMuriel/OTF/blob/main/Apache%20Iceberg%20Write%20Process.jpg)
-* Post: Delta Lake 101
+* Post: [Delta Lake 101](https://celiamuriel.com/delta-lake-101/)
   * Asset: [Lambda Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Lambda%20Architecture.jpg)
   * Asset: [Delta Lake Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Delta%20Lake%20Architecture.jpg)
   * Asset: [Delta Lake Write Process](https://github.com/CeliaMuriel/OTF/blob/main/Delta%20Lake%20Write%20Process.jpg)
