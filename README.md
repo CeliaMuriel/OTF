@@ -13,6 +13,7 @@ Under this repository, I store assets (diagrams, infographics, etc.) that comple
   * Asset: [Lambda Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Lambda%20Architecture.jpg)
   * Asset: [Delta Lake Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Delta%20Lake%20Architecture.jpg)
   * Asset: [Delta Lake Write Process](https://github.com/CeliaMuriel/OTF/blob/main/Delta%20Lake%20Write%20Process.jpg)
+* Post:  OTF Features to Integrate in Analytical Ecosystems: Evolution and Time Travel
 ## References
 * Apache Iceberg. (n.d.). _Apache Iceberg online documentation on the Apache Iceberg official website_. Accessed in August 2025. https://iceberg.apache.org/docs/nightly/
 * Shiran, T., Hughes, J. and Merced, A. (2024). _Apache Iceberg: The Definitive Guide. Data Lakehouse Functionality, Performance, and Scalability on the Data Lake_. O’Reilly Media, Inc.
