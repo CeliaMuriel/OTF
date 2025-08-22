@@ -13,7 +13,7 @@ Under this repository, I store assets (diagrams, infographics, etc.) that comple
   * Asset: [Lambda Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Lambda%20Architecture.jpg)
   * Asset: [Delta Lake Architecture](https://github.com/CeliaMuriel/OTF/blob/main/Delta%20Lake%20Architecture.jpg)
   * Asset: [Delta Lake Write Process](https://github.com/CeliaMuriel/OTF/blob/main/Delta%20Lake%20Write%20Process.jpg)
-* Post:  OTF Features to Integrate in Analytical Ecosystems: Evolution and Time Travel
+* Post: [OTF Features to Integrate in Analytical Ecosystems: Evolution and Time Travel](https://celiamuriel.com/otf-features-to-integrate-in-analytical-ecosystems-evolution-and-time-travel/)
   * Asset: [Data Lakehouse - Functional Elements](https://github.com/CeliaMuriel/OTF/blob/main/Data%20Lakehouse%20-%20Functional%20Elements.jpg)
   * Asset: [OTF Schema Evolution - One Engine](https://github.com/CeliaMuriel/OTF/blob/main/OTF%20Schema%20Evolution%20-%20One%20Engine.jpg)
   * Asset: [OTF Schema Evolution - Three Engine](https://github.com/CeliaMuriel/OTF/blob/main/OTF%20Schema%20Evolution%20-%20Three%20Engine.jpg)
