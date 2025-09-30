@@ -22,7 +22,8 @@ Under this repository, I store assets (diagrams, infographics, etc.) that comple
   * Asset: [OTF Time Travel](https://github.com/CeliaMuriel/OTF/blob/main/OTF%20Time%20Travel.jpg)
 ## References
 * Apache Iceberg. (n.d.). _Apache Iceberg online documentation on the Apache Iceberg official website_. Accessed in August 2025. https://iceberg.apache.org/docs/nightly/
-* Shiran, T., Hughes, J. and Merced, A. (2024). _Apache Iceberg: The Definitive Guide. Data Lakehouse Functionality, Performance, and Scalability on the Data Lake_. O’Reilly Media, Inc.
 * Delta Lake. (2025). _Delta Lake online documentation on the Delta Lake official website_. Accessed in August 2025. https://docs.delta.io/latest/index.html
 * Lee, D., Wentling, T., Haines, S. and Babu, P. (2025). _Delta Lake: The Definitive Guide. Modern Data Lakehouse Architectures with Data Lakes_. O’Reilly Media, Inc.
+* Nats, T. (2023). Improving performance with Iceberg sorted tables on the Starburst blog. Retrieved on September 30th, 2025, from https://www.starburst.io/blog/improving-performance-with-iceberg-sorted-tables/
+* Shiran, T., Hughes, J. and Merced, A. (2024). _Apache Iceberg: The Definitive Guide. Data Lakehouse Functionality, Performance, and Scalability on the Data Lake_. O’Reilly Media, Inc.
 * Teradata. (n.d.). _Teradata® Open Table Format for Apache Iceberg and Delta Lake User Guide on the Teradata online documentation website_. Accessed in August 2025. https://docs.teradata.com/r/Enterprise_IntelliFlex_Lake_VMware/Teradata-Open-Table-Format-for-Apache-Iceberg-and-Delta-Lake-User-Guide
